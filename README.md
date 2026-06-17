@@ -133,7 +133,7 @@
 
 <br/>
 
-<img width="92%" src="https://github.com/xiaoyangtx996/xiaoyangtx996/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img width="92%" src="https://github.com/xiaoyangtx996/xiaoyangtx996/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
 
@@ -143,30 +143,12 @@
 
 ## 💡 最近在折腾
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=python&theme=light" width="40" alt="Python"/><br/>
-      <b>AI Agent 编排</b><br/>
-      <a href="https://github.com/xiaoyangtx996/CorpPilot">CorpPilot</a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=js&theme=light" width="40" alt="JS"/><br/>
-      <b>BI 可视化</b><br/>
-      <a href="https://xiaoyangtx.icu">Merlin BI</a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=rust&theme=light" width="40" alt="Rust"/><br/>
-      <b>桌面效率工具</b><br/>
-      <a href="https://github.com/xiaoyangtx996/CPA-Cockpit-Tools">Tauri + Vue</a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="40" alt="Next.js"/><br/>
-      <b>个人站点</b><br/>
-      <a href="https://xiaoyangtx.icu">xiaoyangtx.icu</a>
-    </td>
-  </tr>
-</table>
+| 项目 | 在做什么 |
+|:---|:---|
+| [**CorpPilot**](https://github.com/xiaoyangtx996/CorpPilot) | AI 多 Agent 协作，一人公司赛博组织架构 |
+| [**AiGate**](https://github.com/xiaoyangtx996/AiGate) | AI 网关与应用集成 |
+| [**Merlin BI**](https://xiaoyangtx.icu) | Tempo BI 可视化组件设计联调 |
+| [**CPA-Cockpit-Tools**](https://github.com/xiaoyangtx996/CPA-Cockpit-Tools) | Tauri 桌面效率工具 |
 
 <br/>
 
