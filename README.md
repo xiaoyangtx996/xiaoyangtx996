@@ -29,7 +29,7 @@
 [![个人站点](https://img.shields.io/badge/个人站点-xiaoyangtx.icu-0891b2?style=flat-square&logo=safari&logoColor=white)](https://xiaoyangtx.icu)
 [![GitHub](https://img.shields.io/badge/GitHub-xiaoyangtx996-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/xiaoyangtx996)
 [![Gitee](https://img.shields.io/badge/Gitee-yang--xufan-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/yang-xufan)
-[![Email](https://img.shields.io/badge/Email-hi@xiaoyangtx.icu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xiaoyangtx996@gmail.com)
+[![Email](https://img.shields.io/badge/Email-xiaoyangtx996@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xiaoyangtx996@gmail.com)
 
 <br/>
 
@@ -61,6 +61,7 @@
 
 | 平台 | 项目 | 描述 | 技术栈 |
 |:---:|:---|:---|:---|
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"/> | [**LedgrAI**](https://github.com/xiaoyangtx996/LedgrAI) | AI 发票提取、对账与欺诈检测，多 Agent 应付账款自动化 | `Python` `FastAPI` `Next.js` |
 | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"/> | [**CorpPilot**](https://github.com/xiaoyangtx996/CorpPilot) | 一人公司 AI 多 Agent 协作，模拟大厂组织架构统管赛博公司 | `Python` `AI Agent` |
 | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"/> | [**CPA-Cockpit-Tools**](https://github.com/xiaoyangtx996/CPA-Cockpit-Tools) | CPA 账号与 Token 批量测试、配置导出桌面工具 | `Rust` `Tauri` `Vue` |
 | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"/> | [**AiGate**](https://github.com/xiaoyangtx996/AiGate) | AI 网关与应用集成 | `TypeScript` |
@@ -145,6 +146,7 @@
 
 | 项目 | 在做什么 |
 |:---|:---|
+| [**LedgrAI**](https://github.com/xiaoyangtx996/LedgrAI) | AI 发票提取、PO 对账与欺诈检测 |
 | [**CorpPilot**](https://github.com/xiaoyangtx996/CorpPilot) | AI 多 Agent 协作，一人公司赛博组织架构 |
 | [**AiGate**](https://github.com/xiaoyangtx996/AiGate) | AI 网关与应用集成 |
 | [**Merlin BI**](https://xiaoyangtx.icu) | Tempo BI 可视化组件设计联调 |
