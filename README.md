@@ -29,7 +29,7 @@
 [![个人站点](https://img.shields.io/badge/个人站点-xiaoyangtx.icu-0891b2?style=flat-square&logo=safari&logoColor=white)](https://xiaoyangtx.icu)
 [![GitHub](https://img.shields.io/badge/GitHub-xiaoyangtx996-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/xiaoyangtx996)
 [![Gitee](https://img.shields.io/badge/Gitee-yang--xufan-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/yang-xufan)
-[![Email](https://img.shields.io/badge/Email-xiaoyangtx996@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xiaoyangtx996@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hi@xiaoyangtx.icu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xiaoyangtx996@gmail.com)
 
 <br/>
 
