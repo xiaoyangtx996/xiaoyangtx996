@@ -57,14 +57,18 @@
 
 <div align="center">
 
-## 🚀 GitHub 开源
+## 🚀 开源项目
 
-| 项目 | 描述 | 技术栈 |
-|:---:|:---|:---|
-| [**CorpPilot**](https://github.com/xiaoyangtx996/CorpPilot) | 一人公司 AI 多 Agent 协作系统，模拟大厂组织架构统管赛博公司 | `Python` `AI Agent` |
-| [**CPA-Cockpit-Tools**](https://github.com/xiaoyangtx996/CPA-Cockpit-Tools) | CPA 侧账号与 Token 批量测试、配置导出桌面工具 | `Rust` `Tauri` `Vue` |
-| [**AiGate**](https://github.com/xiaoyangtx996/AiGate) | AI 网关与应用集成项目 | `TypeScript` |
-| [**Merlin BI**](https://xiaoyangtx.icu) | Tempo BI 可视化组件设计工作台，ECharts 大屏与 JS 组件联调 | `JavaScript` `ECharts` |
+| 平台 | 项目 | 描述 | 技术栈 |
+|:---:|:---|:---|:---|
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"/> | [**CorpPilot**](https://github.com/xiaoyangtx996/CorpPilot) | 一人公司 AI 多 Agent 协作，模拟大厂组织架构统管赛博公司 | `Python` `AI Agent` |
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"/> | [**CPA-Cockpit-Tools**](https://github.com/xiaoyangtx996/CPA-Cockpit-Tools) | CPA 账号与 Token 批量测试、配置导出桌面工具 | `Rust` `Tauri` `Vue` |
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"/> | [**AiGate**](https://github.com/xiaoyangtx996/AiGate) | AI 网关与应用集成 | `TypeScript` |
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"/> | [**Merlin BI**](https://xiaoyangtx.icu) | Tempo BI 可视化组件设计工作台，ECharts 大屏联调 | `JavaScript` `ECharts` |
+| <img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/> | [**Pack**](https://gitee.com/yang-xufan/Pack) | 将代码文件打包成可执行程序 | `Python` |
+| <img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/> | [**jar-decompiler**](https://gitee.com/yang-xufan/jar-decompiler) | 现代化 JAR 反编译工具，并行处理与缓存，图形界面 | `Java` |
+| <img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/> | [**search-xiaoyangtx**](https://gitee.com/yang-xufan/search-xiaoyangtx) | 小杨导航 · 自托管搜索与导航管理系统 | `JavaScript` `Vue` |
+| <img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/> | [**tool-xiaoyangtx**](https://gitee.com/yang-xufan/tool-xiaoyangtx) | 小杨导航 Next.js 重构版，集成今日热榜 | `Next.js` `TypeScript` |
 
 </div>
 
@@ -74,9 +78,30 @@
 
 ## 🛠 技术栈
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,vue,ts,js,html,css,docker,linux,mysql,redis,nginx,git,github,vscode&theme=light&perline=8" alt="Tech Stack" />
+**语言 & 运行时**
 
-`Spring Boot` · `Spring Cloud` · `Vue 3` · `TypeScript` · `MyBatis` · `Redis` · `Docker` · `1Panel` · `ECharts` · `Tauri` · `Rust`
+<img src="https://skillicons.dev/icons?i=java,python,rust,ts,js,bash&theme=light&perline=6" alt="Languages" />
+
+**后端 & 框架**
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,express,vue,react,nextjs,html,css,vite&theme=light&perline=9" alt="Frameworks" />
+
+**数据 & 中间件**
+
+<img src="https://skillicons.dev/icons?i=mysql,redis,postgres,nginx,mongodb&theme=light&perline=5" alt="Data" />
+
+**工程 & 运维**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,idea,electron,webpack,npm&theme=light&perline=9" alt="DevOps" />
+
+<br/>
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-cloud)
+[![MyBatis](https://img.shields.io/badge/MyBatis-059669?style=flat-square)](https://mybatis.org)
+[![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)](https://tauri.app)
+[![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white)](https://echarts.apache.org)
+[![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=flat-square)](https://element-plus.org)
 
 </div>
 
@@ -84,23 +109,31 @@
 
 <div align="center">
 
-## 📊 GitHub 数据
+## 📈 编码足迹
 
-<img src="https://github-readme-stats.vercel.app/api?username=xiaoyangtx996&show_icons=true&theme=vue&hide_border=true&bg_color=ffffff&title_color=0891b2&icon_color=0ea5e9&text_color=24292f&border_radius=10" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyangtx996&layout=compact&theme=vue&hide_border=true&bg_color=ffffff&title_color=0891b2&text_color=24292f&border_radius=10" height="165" alt="Top Languages" />
-<img src="https://streak-stats.demolab.com/?user=xiaoyangtx996&theme=default&hide_border=true&background=FFFFFF&ring=0891B2&fire=0EA5E9&currStreakLabel=0891B2&border_radius=10" height="165" alt="GitHub Streak" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=xiaoyangtx996&show_icons=true&theme=vue&hide_border=true&bg_color=ffffff&title_color=0891b2&icon_color=0ea5e9&text_color=24292f&border_radius=12&hide_title=false&rank_icon=percentile" alt="GitHub Stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyangtx996&layout=compact&theme=vue&hide_border=true&bg_color=ffffff&title_color=0891b2&text_color=24292f&border_radius=12&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=xiaoyangtx996&theme=default&hide_border=true&background=FFFFFF&ring=0891B2&fire=0EA5E9&currStreakLabel=0891B2&sideLabels=0891B2&dates=64748B&border_radius=12" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-</div>
+<br/>
 
-###
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoyangtx996&theme=react&hide_border=true&bg_color=ffffff&color=0891b2&line=0ea5e9&point=0891b2&area=true&height=260&radius=12" alt="Activity Graph" />
 
-<div align="center">
+<br/>
 
-## 🔥 贡献热力 & 活动
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoyangtx996&theme=react&hide_border=true&bg_color=ffffff&color=0891b2&line=0ea5e9&point=0891b2&area=true&height=280" alt="Activity Graph" />
-
-![Snake animation](https://github.com/xiaoyangtx996/xiaoyangtx996/output/github-contribution-grid-snake.svg)
+<img width="92%" src="https://github.com/xiaoyangtx996/xiaoyangtx996/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -110,14 +143,36 @@
 
 ## 💡 最近在折腾
 
-```text
-🤖  AI Agent 编排        CorpPilot 多角色协作
-📊  BI 可视化组件         Merlin BI Design Workbench
-🦀  本地桌面工具          Tauri + Vue 跨平台
-🌐  个人站点              xiaoyangtx.icu
-```
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=python&theme=light" width="40" alt="Python"/><br/>
+      <b>AI Agent 编排</b><br/>
+      <a href="https://github.com/xiaoyangtx996/CorpPilot">CorpPilot</a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=js&theme=light" width="40" alt="JS"/><br/>
+      <b>BI 可视化</b><br/>
+      <a href="https://xiaoyangtx.icu">Merlin BI</a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=rust&theme=light" width="40" alt="Rust"/><br/>
+      <b>桌面效率工具</b><br/>
+      <a href="https://github.com/xiaoyangtx996/CPA-Cockpit-Tools">Tauri + Vue</a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="40" alt="Next.js"/><br/>
+      <b>个人站点</b><br/>
+      <a href="https://xiaoyangtx.icu">xiaoyangtx.icu</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=xiaoyangtx996&label=Profile%20views&color=0891b2&style=flat" alt="Profile Views" />
+
+<br/><br/>
 
 **Thanks for visiting! 欢迎 Star & Fork ⭐**
 
