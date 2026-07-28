@@ -89,21 +89,6 @@
 
 <div align="center">
 
-## 📈 编码足迹
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=xiaoyangtx996&show_icons=true&theme=vue&hide_border=true&bg_color=ffffff&title_color=0891b2&icon_color=0ea5e9&text_color=24292f&border_radius=12&hide_title=false&rank_icon=percentile" alt="GitHub Stats" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyangtx996&layout=compact&theme=vue&hide_border=true&bg_color=ffffff&title_color=0891b2&text_color=24292f&border_radius=12&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoyangtx996&theme=react&hide_border=true&bg_color=ffffff&color=0891b2&line=0ea5e9&point=0891b2&area=true&height=260&radius=12" alt="Activity Graph" />
 
 <br/>
