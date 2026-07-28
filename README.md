@@ -2,39 +2,14 @@
 
 <div align="center">
 
-## Hi，我是小杨同学 👋
-
-### 🌊 探索者 · 一直踏入洪流 · 在 AI 与数据之间造工具
-
 *且将新火试新茶，诗酒趁年华*
 
-</div>
-
-本人一直从事**全栈 / 后端开发**，熟悉 Java 与 Vue 技术栈，对高并发、分布式、微服务有实际项目经验。  
-能独立推进 **从 0 到 1** 的项目：需求拆解、技术选型、接口设计、数据库建模、联调上线与后续迭代。
-
-当前关注 **AI 多 Agent 协作**、**数据可视化** 与 **本地效率工具**——从 Tauri 桌面端到 BI 大屏组件，从 Python 编排到 Vue 前端，喜欢把复杂流程做成「一键可用」的产品。
-
-<div align="center">
-
-> **「代码是写给人看的，只是顺便让机器能运行。」**  
-> **「洪流不会等人，但探索者永远在路上。」** 🌊
-
-</div>
-
 <br/>
-
-<div align="center">
 
 [![个人站点](https://img.shields.io/badge/个人站点-xiaoyangtx.icu-0891b2?style=flat-square&logo=safari&logoColor=white)](https://xiaoyangtx.icu)
 [![GitHub](https://img.shields.io/badge/GitHub-xiaoyangtx996-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/xiaoyangtx996)
 [![Gitee](https://img.shields.io/badge/Gitee-yang--xufan-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/yang-xufan)
 [![Email](https://img.shields.io/badge/Email-hi@xiaoyangtx.icu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xiaoyangtx996@gmail.com)
-[![LINUX DO](https://img.shields.io/badge/LINUX%20DO-community-F97316?style=flat-square)](https://linux.do)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0891B2&center=true&vCenter=true&width=520&lines=Java+%26+Spring+Cloud;Vue+3+%26+TypeScript;AI+Agent+%26+BI;Always+Exploring+%F0%9F%8C%8A" alt="Typing SVG" />
 
 </div>
 
