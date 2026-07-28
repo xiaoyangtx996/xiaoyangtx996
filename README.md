@@ -125,11 +125,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyangtx996&layout=compact&theme=vue&hide_border=true&bg_color=ffffff&title_color=0891b2&text_color=24292f&border_radius=12&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=xiaoyangtx996&theme=default&hide_border=true&background=FFFFFF&ring=0891B2&fire=0EA5E9&currStreakLabel=0891B2&sideLabels=0891B2&dates=64748B&border_radius=12" alt="GitHub Streak" />
-    </td>
-  </tr>
 </table>
 
 <br/>
