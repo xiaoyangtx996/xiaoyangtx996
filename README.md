@@ -7,7 +7,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-xiaoyangtx996-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/xiaoyangtx996)
-[![Gitee](https://img.shields.io/badge/Gitee-yang--xufan-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/yang-xufan)
+[![Gitee](https://img.shields.io/badge/Gitee-xiaoyangtx996-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/xiaoyangtx996)
 [![Email](https://img.shields.io/badge/Email-xiaoyangtx996@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xiaoyangtx996@gmail.com)
 
 </div>
