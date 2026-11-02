@@ -96,14 +96,12 @@
 
 | 项目 | 在做什么 |
 |:---|:---|
-| [**goalcraft-skill**](https://github.com/xiaoyangtx996/goalcraft-skill) | 把一句话收成可执行 /goal YAML |
-| [**ArkNote**](https://github.com/xiaoyangtx996/ArkNote) | 桌面便签 · 托盘 · 贴边书签 |
+| [**语战像素岛**](https://gitee.com/xiaoyangtx996/yzxsd) | 像素风日语学习 · 闯关与成就 |
+| [**玄机阁**](https://gitee.com/xiaoyangtx996/lifekline) | 术数工具集 · 八字人生K线与 AI 解读 |
+| [**OpenIDE**](https://github.com/xiaoyangtx996/OpenIDE) | 开源 IDE 探索 |
 | [**影核 Ark**](https://github.com/xiaoyangtx996/Yinghe-Ark) | 短剧/漫剧 AI 创作管线 |
-| [**PromptSpark**](https://github.com/xiaoyangtx996/PromptSpark) | Composer 提示词一键优化 |
-| [**LedgrAI**](https://github.com/xiaoyangtx996/LedgrAI) | AI 发票提取、PO 对账与欺诈检测 |
-| [**CorpPilot**](https://github.com/xiaoyangtx996/CorpPilot) | AI 多 Agent 协作，一人公司赛博组织架构 |
-| [**AiGate**](https://github.com/xiaoyangtx996/AiGate) | 企业级 AI 管理平台 |
 | [**Searching-skill**](https://github.com/xiaoyangtx996/Searching-skill) | 看图定位 / 网络迷踪规则库 |
+| [**PromptSpark**](https://github.com/xiaoyangtx996/PromptSpark) | Composer 提示词一键优化 |
 
 <br/>
 
