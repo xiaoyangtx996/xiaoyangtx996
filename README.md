@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xiaoyangtx996&theme=react&hide_border=true&bg_color=ffffff&color=0891b2&line=0ea5e9&point=0891b2&area=true&height=260&radius=12" alt="Activity Graph" />
+<img width="100%" src="https://github-act-graph.rodriaum.com/graph?username=xiaoyangtx996&theme=react&hide_border=true&bg_color=ffffff&color=0891b2&line=0ea5e9&point=0891b2&area=true&height=260&radius=12" alt="Activity Graph" />
 
 <br/>
 
