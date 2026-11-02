@@ -27,10 +27,11 @@
 | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"/> | [**CorpPilot**](https://github.com/xiaoyangtx996/CorpPilot) | 一人公司 AI 多 Agent 协作，模拟大厂组织架构统管赛博公司 | `Python` `AI Agent` |
 | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"/> | [**CPA-Cockpit-Tools**](https://github.com/xiaoyangtx996/CPA-Cockpit-Tools) | CPA 账号与 Token 批量测试、配置导出桌面工具 | `Rust` `Tauri` `Vue` |
 | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"/> | [**AiGate**](https://github.com/xiaoyangtx996/AiGate) | AI 网关与应用集成 | `TypeScript` |
-| <img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/> | [**Pack**](https://gitee.com/yang-xufan/Pack) | 将代码文件打包成可执行程序 | `Python` |
-| <img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/> | [**jar-decompiler**](https://gitee.com/yang-xufan/jar-decompiler) | 现代化 JAR 反编译工具，并行处理与缓存，图形界面 | `Java` |
-| <img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/> | [**search-xiaoyangtx**](https://gitee.com/yang-xufan/search-xiaoyangtx) | 小杨导航 · 自托管搜索与导航管理系统 | `JavaScript` `Vue` |
-| <img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/> | [**tool-xiaoyangtx**](https://gitee.com/yang-xufan/tool-xiaoyangtx) | 小杨导航 Next.js 重构版，集成今日热榜 | `Next.js` `TypeScript` |
+| <img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/> | [**小杨导航**](https://gitee.com/xiaoyangtx996/search-xiaoyangtx) | 自托管导航管理系统，无限层级菜单、拼音搜索 | `JavaScript` `Vue` |
+| <img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/> | [**小杨导航 Next**](https://gitee.com/xiaoyangtx996/tool-xiaoyangtx) | 小杨导航 Next.js 重构版，集成今日热榜 | `Next.js` `TypeScript` |
+| <img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/> | [**要开心**](https://gitee.com/xiaoyangtx996/be-happy) | 液态玻璃风趣味祝福页，分享链接自动生成 | `HTML` |
+| <img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/> | [**Pack**](https://gitee.com/xiaoyangtx996/pack) | 将代码文件打包成可执行程序 | `Python` |
+| <img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/> | [**jar-decompiler**](https://gitee.com/xiaoyangtx996/jar-decompiler) | 现代化 JAR 反编译工具，并行处理与缓存，图形界面 | `Java` |
 
 </div>
 
