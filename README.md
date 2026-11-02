@@ -96,12 +96,12 @@
 
 | 项目 | 在做什么 |
 |:---|:---|
-| [**语战像素岛**](https://gitee.com/xiaoyangtx996/yzxsd) | 像素风日语学习 · 闯关与成就 |
-| [**玄机阁**](https://gitee.com/xiaoyangtx996/lifekline) | 术数工具集 · 八字人生K线与 AI 解读 |
-| [**OpenIDE**](https://github.com/xiaoyangtx996/OpenIDE) | 开源 IDE 探索 |
-| [**影核 Ark**](https://github.com/xiaoyangtx996/Yinghe-Ark) | 短剧/漫剧 AI 创作管线 |
+| [**影核 Ark**](https://github.com/xiaoyangtx996/Yinghe-Ark) | 短剧/漫剧 AI 创作管线 · 近月提交最密 |
 | [**Searching-skill**](https://github.com/xiaoyangtx996/Searching-skill) | 看图定位 / 网络迷踪规则库 |
-| [**PromptSpark**](https://github.com/xiaoyangtx996/PromptSpark) | Composer 提示词一键优化 |
+| [**CorpPilot**](https://github.com/xiaoyangtx996/CorpPilot) | AI 多 Agent · 一人公司赛博组织 |
+| [**CodexPlusPlus**](https://github.com/xiaoyangtx996/CodexPlusPlus) | CodexApp 增强二开 |
+| [**玄机阁**](https://gitee.com/xiaoyangtx996/lifekline) | 术数工具集 · 八字人生K线与 AI 解读 |
+| [**语战像素岛**](https://gitee.com/xiaoyangtx996/yzxsd) | 像素风日语学习 · 闯关与成就 |
 
 <br/>
 
