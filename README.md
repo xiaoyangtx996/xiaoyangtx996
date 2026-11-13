@@ -10,17 +10,9 @@
 [![Gitee](https://img.shields.io/badge/Gitee-xiaoyangtx996-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/xiaoyangtx996)
 [![Email](https://img.shields.io/badge/Email-xiaoyangtx996@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xiaoyangtx996@gmail.com)
 
-</div>
+<h3>在做</h3>
 
-<br/>
-
-<div align="center">
-
-### 在做
-
-</div>
-
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/xiaoyangtx996/Yinghe-Ark"><b>影核 Ark</b></a><br/>
@@ -53,39 +45,33 @@
   </tr>
 </table>
 
-<br/>
+<h3>开源精选</h3>
 
-<div align="center">
+<p>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"/><br/><br/>
+<a href="https://github.com/xiaoyangtx996/goalcraft-skill"><img src="https://img.shields.io/badge/goalcraft--skill-0891b2?style=flat-square" alt="goalcraft-skill"/></a>
+<a href="https://github.com/xiaoyangtx996/ArkNote"><img src="https://img.shields.io/badge/ArkNote-0891b2?style=flat-square" alt="ArkNote"/></a>
+<a href="https://github.com/xiaoyangtx996/PromptSpark"><img src="https://img.shields.io/badge/PromptSpark-0891b2?style=flat-square" alt="PromptSpark"/></a>
+<a href="https://github.com/xiaoyangtx996/CPA-Cockpit-Tools"><img src="https://img.shields.io/badge/CPA--Cockpit-0891b2?style=flat-square" alt="CPA-Cockpit"/></a>
+<a href="https://github.com/xiaoyangtx996/LedgrAI"><img src="https://img.shields.io/badge/LedgrAI-0891b2?style=flat-square" alt="LedgrAI"/></a>
+<a href="https://github.com/xiaoyangtx996/AiGate"><img src="https://img.shields.io/badge/AiGate-0891b2?style=flat-square" alt="AiGate"/></a>
+</p>
 
-### 开源精选
+<p>
+<img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/><br/><br/>
+<a href="https://gitee.com/xiaoyangtx996/yzxsd"><img src="https://img.shields.io/badge/%E8%AF%AD%E6%88%98%E5%83%8F%E7%B4%A0%E5%B2%9B-c2410c?style=flat-square" alt="语战像素岛"/></a>
+<a href="https://gitee.com/xiaoyangtx996/search-xiaoyangtx"><img src="https://img.shields.io/badge/%E5%B0%8F%E6%9D%A8%E5%AF%BC%E8%88%AA-c2410c?style=flat-square" alt="小杨导航"/></a>
+<a href="https://gitee.com/xiaoyangtx996/jar-decompiler"><img src="https://img.shields.io/badge/jar--decompiler-c2410c?style=flat-square" alt="jar-decompiler"/></a>
+<a href="https://gitee.com/xiaoyangtx996/be-happy"><img src="https://img.shields.io/badge/%E8%A6%81%E5%BC%80%E5%BF%83-c2410c?style=flat-square" alt="要开心"/></a>
+</p>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"/>
+<h3>技术栈</h3>
 
-[![goalcraft-skill](https://img.shields.io/badge/goalcraft--skill-0891b2?style=flat-square)](https://github.com/xiaoyangtx996/goalcraft-skill)
-[![ArkNote](https://img.shields.io/badge/ArkNote-0891b2?style=flat-square)](https://github.com/xiaoyangtx996/ArkNote)
-[![PromptSpark](https://img.shields.io/badge/PromptSpark-0891b2?style=flat-square)](https://github.com/xiaoyangtx996/PromptSpark)
-[![CPA--Cockpit](https://img.shields.io/badge/CPA--Cockpit-0891b2?style=flat-square)](https://github.com/xiaoyangtx996/CPA-Cockpit-Tools)
-[![LedgrAI](https://img.shields.io/badge/LedgrAI-0891b2?style=flat-square)](https://github.com/xiaoyangtx996/LedgrAI)
-[![AiGate](https://img.shields.io/badge/AiGate-0891b2?style=flat-square)](https://github.com/xiaoyangtx996/AiGate)
+<img src="https://skillicons.dev/icons?i=java,python,rust,ts,js,spring,vue,react,nextjs,docker&theme=light" alt="stack"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white" height="20"/>
-
-[![语战像素岛](https://img.shields.io/badge/%E8%AF%AD%E6%88%98%E5%83%8F%E7%B4%A0%E5%B2%9B-c2410c?style=flat-square)](https://gitee.com/xiaoyangtx996/yzxsd)
-[![小杨导航](https://img.shields.io/badge/%E5%B0%8F%E6%9D%A8%E5%AF%BC%E8%88%AA-c2410c?style=flat-square)](https://gitee.com/xiaoyangtx996/search-xiaoyangtx)
-[![jar-decompiler](https://img.shields.io/badge/jar--decompiler-c2410c?style=flat-square)](https://gitee.com/xiaoyangtx996/jar-decompiler)
-[![要开心](https://img.shields.io/badge/%E8%A6%81%E5%BC%80%E5%BF%83-c2410c?style=flat-square)](https://gitee.com/xiaoyangtx996/be-happy)
-
-<br/>
-
-### 技术栈
-
-<img src="https://skillicons.dev/icons?i=java,python,rust,ts,js,spring,vue,react,nextjs,docker&theme=light" alt="stack" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=xiaoyangtx996&label=Profile%20views&color=0891b2&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=xiaoyangtx996&label=Profile%20views&color=0891b2&style=flat" alt="Profile Views"/>
 
 </div>
 
